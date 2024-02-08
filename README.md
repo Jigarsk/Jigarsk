@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN, Web-dev, Wordpress, Plugin/theme Development**
 
-- 📫 How to reach me **kayasthajigars@gmail.com**
+- 📫 You can reach to me via **kayasthajigars@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jigar-kayastha-8648021b1/](https://www.linkedin.com/in/jigar-kayastha-8648021b1/)
 
